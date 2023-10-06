@@ -1,0 +1,9 @@
+add 0000
+sub 0001
+and 0011
+or  0100
+nor 0101
+sll 0110
+srl 0111
+din 1110
+dout 1111

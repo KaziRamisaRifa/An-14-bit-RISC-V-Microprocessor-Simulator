@@ -1,0 +1,16 @@
+add $s1, $s3
+sub $s3, $s4
+and $s5, $s6
+or $s6, $s7
+din $s3
+dout $s3
+nor $s6, $s7
+sll $s6, 3
+srl $s6, 3
+lw 4($s2)
+sw 8($s4)
+addi $s5, 5
+beq $s5, 5
+bne $s5, 6
+slti $s4, 3
+j 2
